@@ -3,7 +3,7 @@ Variable Assignment
 '''
 
 # add 'kingsley' to the variable `name`
-name = "Kingsley"
+name = "joel"
 print(name)
 
 # =======================
